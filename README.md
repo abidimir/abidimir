@@ -1,36 +1,34 @@
-# Hey, I'm Stanley
+# Hi there 👋 #
 
-I'm currently a software engineer at Snapchat and formerly at AWS based in Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.
+📍 [Your Location] • ✉️ [Your Email](mailto:youremail@example.com) • 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
 
-[stanleylim.me](stanleylim.me) | [serbis](serbis) | [twitter](twitter.com/spiderpig86) | [Stanley Lim](linkedin.com/in/stanley-lim-a87a6914b)
+    🔭  I’m currently working on something cool 😉
+    🌱  I’m currently learning Flutter, Go
+    💬  Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+    👨‍💻  Read more about my projects at gautamkrishnar.com
+    ⚡  Fun fact: I've lived in 3 continents 
 
-**Don't forget to get some Potassium**
+⚡️ A Few Quick Facts
 
-**A Few Quick Facts**
+    🔭 I’m currently working on Cirrus.
+    🧐 Learning about serverless architectures, distributed systems, and a bit of ML.
+    👨‍💻 Most of my projects are available on Github.
+    📝 I regulary write articles on my blog.
+    💬 Ping me about react, koa, security, and cloud stuff.
+    📙 Check out my resume.
+    🎉 Fun Fact: 我也会讲中文。
 
-* I'm currently working on Cirrus.
-* Learning about serverless architectures, distributed systems, and a bit of ML.
-* Most of my projects are available on GitHub.
-* I regularly write articles on my blog.
-* Ping me about React, Koa, security, and cloud stuff.
-* Check out my resume.
-* Fun Fact: 我也会讲中文。
+  Studying
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
 
-**Recent Posts**
+## 📌 Projects  
+🔹 **[Stock Market Prediction](https://github.com/yourusername/project1)** – *Predicting stock prices using machine learning models*  
+🔹 **[Customer Churn Analysis](https://github.com/yourusername/project2)** – *Analyzing customer churn with classification models*  
+🔹 **[Sentiment Analysis with NLP](https://github.com/yourusername/project3)** – *Analyzing social media sentiment using natural language processing*  
 
-* [Explore](link_to_recent_post) 
-* [Read More](link_to_recent_post) 
+---
 
-**Some Tools I Use**
+📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=prs,issues&theme=gruvbox)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=gruvbox)
 
-* [AWS](aws.amazon.com) 
-* [JS](javascript.com) 
-* [Redis](redis.io) 
-
-**Stanley Lim's GitHub Stats**
-
-* Total Stars Earned: 1.9k
-* Total Commits (2025): 188
-* Total PRs: 66
-* Total Issues: 30
-* Contributed to (last year): 5
