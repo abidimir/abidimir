@@ -1,19 +1,19 @@
-# hey there 👋 #
+# hey there, I'm Mir 👋 #
 
 📍 detroit, MI • ✉️ abidimir@umich.edu • 🔗 linkedin.com/in/abidimir
 
-    🌱 Currently pursuing my BS in Data Science at the University of Michigan!
-    🧐 Learning PyTorch, Cloud Computing concepts, and a bit of ML
-    📙 Check out my resume
-    💬 Check out my projects below!
+    🌱 currently pursuing my BS in Data Science at the University of Michigan!
+    🧐 current focus: learning PyTorch, ML concepts
+    📙 check out my resume
+    💬 check out my projects below!
 
 ⚡️ a few quick facts
 
-    🔭 I’m currently building my portfolio
-    👨‍💻 I’m passionate about building data science projects
-    📝 I love experimenting with new machine learning models
-    🔭 Ask me about anything related to physics
-    🎉 Fun Fact: AI can "dream"! In 2015, Google’s neural network created bizarre images of cats with human faces
+    🔭 i’m currently building my portfolio
+    👨‍💻 i’m passionate about building data science projects
+    📝 i love experimenting with new machine learning models
+    🔭 ask me about anything related to physics
+    🎉 fun fact: AI can "dream"! In 2015, Google’s neural network created bizarre images of cats with human faces
 
 ♟ languages & tools
 
