@@ -1,40 +1,36 @@
-# Hi, I'm [Your Name] 👋
+# Hey, I'm Stanley
 
-🎓 **Data Science Student** | 📊 **Aspiring Data Scientist** | 🤖 **ML & AI Enthusiast**  
-📍 [Your Location] • ✉️ [Your Email](mailto:youremail@example.com) • 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+I'm currently a software engineer at Snapchat and formerly at AWS based in Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.
 
----
+[stanleylim.me](stanleylim.me) | [serbis](serbis) | [twitter](twitter.com/spiderpig86) | [Stanley Lim](linkedin.com/in/stanley-lim-a87a6914b)
 
-## 🚀 About Me  
-- 📚 **Currently studying** Data Science & Machine Learning at **[Your University]**  
-- 🛠 **Working on**: [Your Current Project, e.g., Time Series Forecasting, NLP Models, etc.]  
-- 🌱 **Learning**: Deep Learning, MLOps, and Big Data technologies  
-- 💡 **Passionate about**: Data Analytics, Predictive Models, and AI applications  
-- 🖥 **Tech Stack**: Python, SQL, TensorFlow, Pandas, NumPy, Scikit-Learn  
+**Don't forget to get some Potassium**
 
----
+**A Few Quick Facts**
 
-## 🔧 Skills & Tools  
-🖥 **Languages**: Python, SQL, R  
-📊 **Libraries**: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch  
-📈 **Data Viz**: Matplotlib, Seaborn, Power BI, Tableau  
-☁️ **Cloud**: AWS, Azure  
+* I'm currently working on Cirrus.
+* Learning about serverless architectures, distributed systems, and a bit of ML.
+* Most of my projects are available on GitHub.
+* I regularly write articles on my blog.
+* Ping me about React, Koa, security, and cloud stuff.
+* Check out my resume.
+* Fun Fact: 我也会讲中文。
 
----
+**Recent Posts**
 
-## 📌 Projects  
-🔹 **[Stock Market Prediction](https://github.com/yourusername/project1)** – *Predicting stock prices using machine learning models*  
-🔹 **[Customer Churn Analysis](https://github.com/yourusername/project2)** – *Analyzing customer churn with classification models*  
-🔹 **[Sentiment Analysis with NLP](https://github.com/yourusername/project3)** – *Analyzing social media sentiment using natural language processing*  
+* [Explore](link_to_recent_post) 
+* [Read More](link_to_recent_post) 
 
----
+**Some Tools I Use**
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=prs,issues&theme=gruvbox)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=gruvbox)
+* [AWS](aws.amazon.com) 
+* [JS](javascript.com) 
+* [Redis](redis.io) 
 
----
+**Stanley Lim's GitHub Stats**
 
-## 🌐 Connect  
-[GitHub](https://github.com/your-github-username) | [LinkedIn](https://linkedin.com/in/your-profile)  
-⭐ **Explore my repositories and contribute!**  
+* Total Stars Earned: 1.9k
+* Total Commits (2025): 188
+* Total PRs: 66
+* Total Issues: 30
+* Contributed to (last year): 5
