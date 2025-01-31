@@ -2,19 +2,17 @@
 
 📍 detroit, MI • ✉️ abidimir@umich.edu • 🔗 linkedin.com/in/abidimir
 
-    🌱  Currently pursuing my BS in Data Science at the University of Michigan!
-    💬  Check out my projects below!
-    🔭  Ask me about anything related to physics
-    👨‍💻  Learn more about my projects below!
-    ⚡  Fun fact: I've been to over a dozen countries!
+    🌱 Currently pursuing my BS in Data Science at the University of Michigan!
+    🧐 Learning PyTorch, Cloud Computing concepts, and a bit of ML
+    📙 Check out my resume
+    💬 Check out my projects below!
 
 ⚡️ a few quick facts
 
     🔭 I’m currently building my portfolio
-    🧐 Learning PyTorch, Cloud Computing concepts, and a bit of ML
     👨‍💻 I’m passionate about building data science projects
     📝 I love experimenting with new machine learning models
-    📙 Check out my resume
+    🔭 Ask me about anything related to physics
     🎉 Fun Fact: AI can "dream"! In 2015, Google’s neural network created bizarre images of cats with human faces
 
 ♟ languages & tools
