@@ -7,7 +7,7 @@
     📙 check out my resume
     💬 check out my projects below!
 
-⚡️** a few quick facts**
+⚡️ **a few quick facts**
 
     🔭 i’m currently building my portfolio
     👨‍💻 i’m passionate about building data science projects
@@ -15,7 +15,7 @@
     🔭 ask me about anything related to physics
     🎉 fun fact: AI can "dream"! In 2015, Google’s neural network created bizarre images of cats with human faces
 
-♟** languages & tools**
+♟**languages & tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
