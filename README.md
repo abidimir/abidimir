@@ -4,6 +4,18 @@
 
 📍 [Detroit, MI] • ✉️ [abidimir@umich.edu] • 🔗 [LinkedIn](https://linkedin.com/in/abidimir)  
 
+```bash
+/daria $ cat skills.py
+{
+  "type": "hard skills",
+  "categories": [
+    {
+      "name": "Languages",
+      "items": ["JavaScript", "Java", "Python"]
+    }
+  ]
+}
+```
 ---
 
 ## 🚀 About Me  
