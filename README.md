@@ -1,6 +1,6 @@
 # Hey there 👋 #
 
-📍 Detroit, MI • ✉️ abidimir@umich.edu • 🔗 https://linkedin.com/in/abidimir
+📍 Detroit, MI • ✉️ abidimir@umich.edu • 🔗 linkedin.com/in/abidimir
 
     🔭  I’m currently working on something cool 😉
     🌱  I’m currently learning Flutter, Go
@@ -18,7 +18,9 @@
     📙 Check out my resume.
     🎉 Fun Fact: 我也会讲中文。
 
-  Studying
+♟ Languages & Tools
+
+  
         ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
         ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
         ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
