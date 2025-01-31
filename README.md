@@ -1,4 +1,4 @@
-# hey there, I'm Mir 👋 #
+# hey there 👋 #
 
 📍 **detroit, MI** • ✉️ abidimir@umich.edu • 🔗 linkedin.com/in/abidimir
 
