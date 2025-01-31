@@ -1,6 +1,6 @@
 # hey there 👋 #
 
-📍 **detroit, MI** • ✉️ abidimir@umich.edu • 🔗 linkedin.com/in/abidimir
+📍 **detroit, MI** • ✉️ **University of Michigan** • 🔗 **linkedin.com/in/abidimir**
 
     🌱 currently pursuing my BS in Data Science at the University of Michigan!
     🧐 current focus: learning PyTorch, ML concepts
