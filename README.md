@@ -1,19 +1,10 @@
-# hey there 👋 #
+📍 **Detroit Metropolitan Area** • ✉️ **University of Michigan** • 🔗 **linkedin.com/in/abidimir**
 
-📍 **detroit, MI** • ✉️ **University of Michigan** • 🔗 **linkedin.com/in/abidimir**
-
-    🌱 currently pursuing my BS in Data Science at the University of Michigan!
+    🌱 currently pursuing BS in Data Science at the University of Michigan
     🧐 current focus: learning PyTorch, ML concepts
-    📙 check out my resume
-    💬 check out my projects below!
-
-⚡️ **a few quick facts**
-
-    🔭 i’m currently building my portfolio
-    👨‍💻 i’m passionate about building data science projects
-    📝 i love experimenting with new machine learning models
-    🔭 ask me about anything related to physics
-    🎉 fun fact: AI can "dream"! In 2015, Google’s neural network created bizarre images of cats with human faces
+    📙 resume
+    💬 projects listed below
+    🔭 i’m currently building my portfolio in statistical data analysis & ML
 
 ♟**languages & tools**
 
