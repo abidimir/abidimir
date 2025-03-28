@@ -1,10 +1,4 @@
-📍 **Detroit Metropolitan Area** • ✉️ **University of Michigan** • 🔗 **linkedin.com/in/abidimir**
-
-    🌱 currently pursuing BS in Data Science at the University of Michigan
-    🧐 current focus: learning PyTorch, ML concepts
-    📙 resume
-    💬 projects listed below
-    🔭 i’m currently building my portfolio in statistical data analysis & ML
+📍 **Detroit Metropolitan Area** • ✉️ **University of Michigan** 
 
 ♟**languages & tools**
 
