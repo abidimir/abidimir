@@ -9,7 +9,7 @@
 
 📌 **projects**  
 
-🔹 **[VaultKey](https://github.com/abidimir/vaultkey)** – *Password Generator Browser Extension*  
+🔹 **[VaultKey](https://github.com/abidimir/vaultkey)** – *A browser extension for generating customizable and secure passwords.*  
 
 ---
 
