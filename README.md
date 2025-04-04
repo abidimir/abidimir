@@ -9,7 +9,7 @@
 
 📌 **projects**  
 
-🔹 **[Stock Market Prediction](https://github.com/yourusername/project1)** – *Predicting stock prices using machine learning models*  
+🔹 **[VaultKey](https://github.com/abidimir/vaultkey)** – *Password Generator Browser Extension*  
 
 ---
 
