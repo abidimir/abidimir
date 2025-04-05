@@ -14,9 +14,3 @@
 🔹 **[VaultKey](https://github.com/abidimir/vaultkey)** – *A browser extension for generating customizable and secure passwords.*  
 
 ---
-
-📊 **github stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=prs,issues&theme=gruvbox)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=gruvbox)
-
